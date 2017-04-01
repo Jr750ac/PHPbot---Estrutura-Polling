@@ -1,20 +1,18 @@
 # PHPbot - Structure Polling
 Code structure bot polling for Telegram
 
-Introdução
+# Introduction
 
-Codigo basico em PHP para utilizar a api do telegram usando polling, dessa forma não precise de uma vps ou estrutura para utilizar o webhooks, sendo que utilizando polling qualquer servidor web podera rodar sem problemas.
-**
-Codigo de Exemplo
+PHP basic code to use the telegram api using polling, so you do not need a vps or structure to use the webhooks, and using polling any web server can run without problems.
 
-***
+# Example Code
 
-Motivação
+null
 
-Esse projeto foi criado com a motivação de ajuda os iniciante progradores PHP com desenvolvimentos de bots para o Telegram, assim decedi criar esse pequeno codigo.
-***
-Installation
+# Motivation
 
-Instalação é padrão, basta fazer o upload no seu servidor web.
-***
+This project was created with the motivation to help beginners PHP developers with developments of bots for the Telegram, so I decided to create this little code.
 
+# Installation
+
+Installation is standard, just upload it on your web server.
